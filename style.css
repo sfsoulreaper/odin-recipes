@@ -1,0 +1,25 @@
+body {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.container .list img, .result {
+    border: 5px solid rgb(189, 47, 255);
+    
+}
+
+ul.list  {
+    display: inline-block;
+    text-align: left;
+}
+
+.result {
+    margin: 0 auto;
+}
+
+.container .list img {
+    margin: 0 21%;
+}
+
