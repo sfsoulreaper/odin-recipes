@@ -10,16 +10,23 @@ body {
     
 }
 
-ul.list  {
+
+ul.list, ol.list  {
     display: inline-block;
     text-align: left;
 }
 
-.result {
+
+.container .list img, .result {
+    display: block;
     margin: 0 auto;
 }
 
-.container .list img {
-    margin: 0 21%;
+h2 {
+    color: blue;
+}
+
+li {
+    color: black;
 }
 
